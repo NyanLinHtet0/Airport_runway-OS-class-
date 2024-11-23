@@ -1,6 +1,8 @@
 import queue
 from wind_calculations import Wind
 import random
+
+
 class planes_queue:
     def __init__(self):
         self.planes = [] #our queue
